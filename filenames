@@ -1,0 +1,14 @@
+./Makefile
+./freq_list.c
+./freq_list.h
+./freq_list.o
+./indexer
+./indexer.c
+./indexer.o
+./printindex.c
+./punc.c
+./punc.o
+./queryone.c
+./queryone.o
+./worker.c
+./worker.h
